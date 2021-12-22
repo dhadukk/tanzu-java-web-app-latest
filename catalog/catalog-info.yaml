@@ -15,6 +15,6 @@ spec:
   type: service
   lifecycle: experimental
   owner: default-team
-  
+  system: tap-gui
   targets:
     - ./systems/tap-gui-system.yaml
